@@ -3,5 +3,6 @@
         "*.asm": "asm-collection",
         "*.sol": "solidity",
         "iostream": "cpp"
-    }
+    },
+    "C_Cpp.errorSquiggles": "Disabled"
 }
