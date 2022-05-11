@@ -1,0 +1,1 @@
+{"name":"Local: MANGOES","url":"c:\\Users\\asus\\OneDrive\\Desktop\\Finally_cpp\\codechef\\MANGOES.cpp","tests":[{"id":1651676376873,"input":"4\n2 5 11\n4 10 20\n1 1 1\n6 40 90\n","output":"3\n2\n0\n8\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\asus\\OneDrive\\Desktop\\Finally_cpp\\codechef\\MANGOES.cpp","group":"local","local":true}
